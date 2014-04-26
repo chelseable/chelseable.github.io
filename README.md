@@ -1,4 +1,4 @@
 chelseable.github.io
 ====================
 
-my CV!
+my Curriculum Vitae
