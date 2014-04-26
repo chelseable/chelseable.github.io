@@ -1,33 +1,36 @@
-<!DOCTYPE HTML5>
-<html>
-  <head>
-    <title>Profile</title>
-    <link rel="icon" href="images.jpg"></link>
-    <link rel="stylesheet" href="style.css"></link>
+body {
+  position:auto;
+  color: #432;
+  font-family:Trebuchet MS;
+  dispaly:block;
+  background-color:#C9F76F;
+  }
 
+h1 {
+  color: ;
+  display: inline-block;
+  }
 
-  </head>
-  <body>
-
-    <div class="page">
-      <h1>Chelsea Cheng</h1>
-      <img class="icon" src="taiwan.jpg"></img>
-
-      <p><u>EDUCATION</u> <br>
-        <span>M|Statistics and Information Science<br>m|French<br> @ FU JEN CATHOLIC UNIVERSITY</span><br>
-      </p>
+h4 {display:inline-block;}
       
-      <p><u>EXPERIENCE</u> <br>
-        <span>Quality Assurance Personnel @ CHI SHENG CHEMICAL CORPORATION</span><br>
-        <span>Retail Specialist @ WORLD DISNEY WORLD</span><br>
-        <span>Store Keeper @ SHERLLY FLORIST</span><br>
-      </p>
-      
-      <p><u>CURRENTLY</u><br> Started to learn how to code my own webpage with four partners @ Mu-An's</p><br><br>
-      <a href="http://www.google.com"> <img class="icon" src="google-icon.png"></img></a>
-      <a href="http://www.facebook.com"> <img class="icon" src="facebook-icon.png"></img></a>
-      <a href="http://instagram.com/chelseable"> <img class="icon" src="instagram-icon.png"></img></a>
-    </div>
+a {
+  color: inherit;
+  }
 
-  </body>
-</html>
+.icon{width:25px}
+
+.page{
+  background-color:ivory;
+  border:1px solid gray;
+  width: 600px;
+  margin-left: auto;
+  margin-right: 10px;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius:8px;
+  
+}
+
+span
+  {}
+  }
